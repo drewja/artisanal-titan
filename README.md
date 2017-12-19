@@ -40,7 +40,7 @@ the garbage collection.
 ### selection\_sort
 
 This is a sligthly less trivial program that does lots of reading and writing
-to a typed away. I think it is a good test for data structure performance in
+to a typed array. I think it is a good test for data structure performance in
 Titan.
 
 ### sieve
